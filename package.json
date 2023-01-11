@@ -1,0 +1,19 @@
+{
+  "name": "@alivadjid/uikit",
+  "version": "1.0.0",
+  "description": "uikit",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alivadjid/uikit.git"
+  },
+  "author": "alivadjid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alivadjid/uikit/issues"
+  },
+  "homepage": "https://github.com/alivadjid/uikit#readme"
+}
